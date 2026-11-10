@@ -8,6 +8,12 @@
 
 普通 App 无权直接展开状态栏，本项目通过**无障碍服务**调用系统全局动作 `GLOBAL_ACTION_QUICK_SETTINGS`，实现「点一下 = 展开完整控制中心」。已在一台 Xiaomi 12（Android 16）上真机验证。
 
+## 📥 下载
+
+- 直接下载 APK：[ControlCenter-1.0.apk](https://github.com/zhoukg/control-center-quick-launch/releases/download/v1.0/ControlCenter-1.0.apk)（来自 [v1.0 Release](https://github.com/zhoukg/control-center-quick-launch/releases/tag/v1.0)）
+
+> 安装后需到「设置 → 无障碍 → 已下载的应用」开启「控制中心快捷唤出」，之后打开 App 即可自动唤出控制中心。
+
 ## ✨ 功能
 
 - **点桌面图标即唤出**：打开 App 自动展开控制中心（冷启动 / 从后台回来都生效）
