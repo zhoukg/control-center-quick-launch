@@ -1,0 +1,21 @@
+# IDE
+.idea/
+*.iml
+local.properties
+.gradle/
+
+# 构建中间产物
+build/
+
+# 签名密钥（不要提交）
+keys/
+
+# 真机验证截图（README 用图见 docs/screenshots/）
+tools/screenshots/
+
+# apksigner 辅助文件
+*.idsig
+
+# 系统文件
+.DS_Store
+Thumbs.db

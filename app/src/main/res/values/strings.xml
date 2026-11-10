@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">控制中心快捷唤出</string>
+    <string name="subtitle">点一下，直接打开通知栏 / 控制中心</string>
+    <string name="status_on">无障碍服务：已开启</string>
+    <string name="status_off">无障碍服务：未开启（点下面按钮开启）</string>
+    <string name="open_accessibility">去开启无障碍服务</string>
+    <string name="summon_now">立即唤出控制中心</string>
+    <string name="auto_launch">打开应用时自动唤出控制中心</string>
+    <string name="mode_title">唤出方式</string>
+    <string name="mode_auto">自动（推荐）</string>
+    <string name="mode_gesture">手势滑动</string>
+    <string name="mode_global">系统动作</string>
+    <string name="enable_bubble">悬浮球（随时一键唤出）</string>
+    <string name="bubble_channel_name">悬浮球</string>
+    <string name="bubble_notification_title">悬浮球已开启</string>
+    <string name="bubble_notification_text">点一下屏幕上的蓝色圆球即可唤出控制中心</string>
+    <string name="widget_label">控制中心</string>
+    <string name="accessibility_service_label">控制中心快捷唤出</string>
+    <string name="accessibility_description">用于在你点击按钮/悬浮球/小组件时自动展开通知栏或控制中心；本服务不读取屏幕内容</string>
+    <string name="hint">首次使用需开启无障碍权限；若无法唤出可切换「唤出方式」重试</string>
+    <string name="toast_opening">正在打开控制中心…</string>
+    <string name="toast_need_accessibility">请先开启无障碍服务</string>
+    <string name="toast_summoned">已唤出控制中心</string>
+    <string name="toast_service_off">无障碍服务未开启，请点开 App 开启</string>
+    <string name="toast_need_overlay_permission">请先允许「显示在其他应用上层」权限</string>
+    <string name="toast_bubble_failed">悬浮球启动失败，请检查权限后重试</string>
+    <string name="toast_open_settings_failed">无法打开设置页面，请到系统设置中手动开启</string>
+</resources>
