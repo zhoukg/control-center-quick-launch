@@ -124,4 +124,4 @@ ControlCenterApp/
 
 ## 📄 License
 
-暂未指定 License。如需使用、分发或二次开发，请先联系作者。
+本项目采用 [MIT License](LICENSE) 开源协议。
